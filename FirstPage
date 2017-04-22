@@ -1,1 +1,17 @@
-
+<html>
+<head>
+  <title>First Page</title>
+  <style>
+    body{
+      background-color:green;
+      text-align:center;
+      color:#fff;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hi Namu</h1>
+  <p>This is our first page on internet<p>
+  <p>As I promise, <b>Namu</b> he website ch naav</p>
+</body>
+</html>
